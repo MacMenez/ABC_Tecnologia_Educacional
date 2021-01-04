@@ -16,7 +16,7 @@ Projetos que desenvolvi durante meus estudos inicias em HTML, os projetos foram 
 #### Repositório Principal de HTML4
 [Repositório HTML4](https://github.com/MacMenez/HTML4 "Repositório com todas os arquivos")
 
-Cada projeto do reositório principal possue seu proprio link na lista abaixo:
+Cada projeto do repositório principal possue seu proprio link na lista abaixo:
 
 * [Primeiros Passos HTML](https://github.com/MacMenez/HTML4/tree/main/Primeiros%20Passos%20HTML "Exemplos de Hello World")
 

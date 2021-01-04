@@ -7,7 +7,7 @@ Divulgação de atividades e projetos desenvolvidos na escola ABC - Centro de Qu
 ## Cursos Concluídos
 
 #### HTML4
-[Repositório HTML4](https://github.com/MacMenez/HTML4-ABC "")
+[Repositório HTML4](https://github.com/MacMenez/HTML4 "")
 #### VisualG
 [Repositório VisualG]("Ainda não divulgado")
 #### Construtor de Jogos(Construct2)
